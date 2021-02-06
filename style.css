@@ -26,13 +26,29 @@
 }
 .child-1 a{
     display: block;
+    color: #000;
     text-decoration: none;
-    color: #1348d7;
     text-align: left;
     margin-left: 15%;
 }
+.child-2 a{
+    text-decoration: none;
+    color: #000;
+    text-align: left;
+    margin-left: 20px;
+}
 .child-1 .fa{
-    margin-right: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.child-2 .fa{
+    margin-right: 5px;
+}
+.child-1 a:hover{
+    color: #1348d7;
+}
+.child-2 a:hover{
+    color: #1348d7;
 }
 .child-1 img{
     margin-top: 3px;
@@ -60,7 +76,7 @@
     margin-left: 3px;
 }
 table{
-width: 94%;
+width: 98%;
 margin: 1%;
 padding: 1%;;
 }
