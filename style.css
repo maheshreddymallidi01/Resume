@@ -42,7 +42,7 @@
     margin-bottom: 5px;
 }
 .child-2 .fa{
-    margin-right: 5px;
+    margin:0px 5px;
 }
 .projects{
     display: flex;
