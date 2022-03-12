@@ -44,6 +44,10 @@
 .child-2 .fa{
     margin:0px 5px;
 }
+#project{
+    list-style: none;
+    padding-left: 2px;
+}
 .projects{
     display: flex;
     flex-direction: row;
